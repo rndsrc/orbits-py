@@ -1,0 +1,15 @@
+*
+!*/
+
+!*.md
+!*.py
+!*.ipynb
+
+!*.png
+!*.jpg
+!*.svg
+
+__pycache__/
+.ipynb_checkpoints/
+_build/
+plots/
