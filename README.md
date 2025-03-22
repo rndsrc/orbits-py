@@ -1,12 +1,16 @@
 # Speeding Up Your Python Codes 1000x
 
-Python is a favorite for data science and scientific computing, but
-its interpreted nature can be a performance bottleneck.
-In this workshop, we will explore practical techniques to supercharge
-Python performance, including vectorization, parallel/distributed
-computing, just-in-time compilation, and GPU acceleration.
-We will also cover profiling best practices to benchmark and optimize
-codes.
-Whether you're processing large datasets, training AI models, or
-running simulations, these strategies will help you achieve speedups
-of up to 1000x.
+Welcome to this workshop!
+
+In this repository, you will find a [Jupyter Notebook](orbits.ipynb)
+that walks you through step-by-step optimizations using a classic
+n-body simulation.
+We start with simple improvements like list comprehensions and
+reducing operation counts, then move on to advanced techniques with
+high-performance libraries such as `NumPy` and Google `JAX`,
+just-in-time compilation, and GPU acceleration.
+
+The result is a performance boost of over 1000x, empowering you to
+process complex datasets, train AI models, or run detailed simulations
+efficiently.
+Enjoy the journey and unlock Python's true potential!
