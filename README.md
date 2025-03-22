@@ -2,8 +2,10 @@
 
 Welcome to this workshop!
 
-In this repository, you will find a [Jupyter Notebook](orbits.ipynb)
-that walks you through step-by-step optimizations using a classic
+In this repository, you will find Jupyter Notebooks
+[Demo](demo.ipynb) and
+[Hands-on](handson.ipynb)
+that walk you through step-by-step optimizations using a classic
 n-body simulation.
 We start with simple improvements like list comprehensions and
 reducing operation counts, then move on to advanced techniques with
