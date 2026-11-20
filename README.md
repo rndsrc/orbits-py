@@ -2,9 +2,8 @@
 
 Welcome to this workshop!
 
-In this repository, you will find Jupyter Notebooks
-[Demo](demo.ipynb) and
-[Hands-on](handson.ipynb)
+In this repository, you will find the Jupyter Notebook
+"[Hands-on](handson.ipynb)"
 that walk you through step-by-step optimizations using a classic
 n-body simulation.
 We start with simple improvements like list comprehensions and
